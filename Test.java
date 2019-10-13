@@ -2,7 +2,7 @@ import java.io.*;
 /**
  * Write a description of class Test here.
  *
- * @author (your name)
+ * @author ()
  * @version (a version number or a date)
  */
 public class Test
